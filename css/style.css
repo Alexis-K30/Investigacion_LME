@@ -31,12 +31,15 @@ header h1, header p{
 
 header div{
     display: inline-block;
-    place-content: left;
 }
 
-div h1{
-    width: 100%;
-    text-align: center;
+.Don_Bosco{
+    width: 20%;
+    margin-left: 1em;
+}
+.container{
+    width: 78%;
+    
 }
 
 p{
